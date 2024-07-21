@@ -21,7 +21,8 @@ For holding battery, etc.
 [JXFUKAL Rear Bike Rack Bag with Rain Cover, 7L/9L/10L/12L Waterproof Bicycle 
 Ebike Saddle Bag Cycling Pannier Trunk Carrier with Reflector & Adjustable 
 Cord for Commuter Travel Outdoor](https://www.amazon.com/dp/B097MBMM9W?ref=ppx_yo2ov_dt_b_product_details&th=1)
-(No Insulation, 7L, $16.99)
+
+(No Insulation - 7L, $16.99)
 
 ### Nav Computer 
 GPS, TPMS, 2x Cameras, Will be hacked
