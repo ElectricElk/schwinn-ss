@@ -1,3 +1,19 @@
+# Shopping List
+
+The following is the shopping list for adding a light kit to an otherwise 
+acoustic bike. It is not the full shopping list of everything I've added 
+(for instance, fenders, tires, saddle), but a list of part relevant to 
+_this_ mod.
+
+### Battery
+LiFePO4 - Lithium Iron Phosphate batteries are the safest lithium batteries 
+(ie won't catch fire). They also deliver some of the best energy / weight 
+performance, they are more expensive, but this is such a small battery you 
+might be saving ~$5-10 over other chemistry types. 
+
+[ECI Power 12V 5Ah Lithium LiFePO4 Deep Cycle Rechargeable Battery | 
+2000-5000 Life Cycles & 10-Year Lifetime | Built-in BMS](https://www.amazon.com/gp/product/B0973L9XMY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
+($29.99)
 
 ### Front Bag 
 For holding battery, etc. 
