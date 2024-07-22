@@ -13,4 +13,8 @@ graph TD
     fr1[fr] -- Blue --> fr4[4]  
     sw1 -- Brown --> sw_horn[horn]  
     sw1 -- Orange --> sw_horn2[horn]  
+    node1[1] -- Red --> node10[10]  
+    sw2 -- Black --> sw2_2[2]  
+    sw2_2 -- Black --> node9[9]  
+    rc4 -- Red --> node13[13]  
 ```  
