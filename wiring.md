@@ -1,5 +1,5 @@
 ```mermaid
-%%{init: {'flowchart' : {'curve' : 'stepBefore'}}}%%
+%%{init: {'flowchart' : {'curve' : 'linear'}}}%%
  
 flowchart LR  
     battery[Battery] -- Red --- node4  
