@@ -29,4 +29,9 @@ graph LR
     node4 -- Red --- node13[13 - Reed Switch Block]
     node8 -- Yellow --- rts[Right Turn Signal/DRL]
     node12 -- ReedSwitch --- node13
+
+%% Black
+linkStyle 1 stroke:#000000 
+%% Red
+linkStyle 2 stroke:#D50000 
 ```  
