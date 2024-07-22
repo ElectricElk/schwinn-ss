@@ -1,5 +1,7 @@
-```mermaid  
-graph LR  
+```mermaid
+%%{init: {'flowchart' : {'curve' : 'stepBefore'}}}%%
+ 
+flowchart LR  
     battery[Battery] -- Red --- node4  
     battery -- Black --- node2  
     rc1[Rear Light Cluster] -- Black --- node2[2 - Neg Block]  
