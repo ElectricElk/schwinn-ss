@@ -9,7 +9,8 @@ many other mods one should make- such as upgraded brake pads, fenders, etc.
 ## Table of Contents
 
 [1. Shopping List](shopping-list.md)
-2. Wiring Diagram (coming soon)
+[2. Wiring Diagram](wiring.md)
+
 3. Device Hacking the Nav Computer (coming soon)
 4. Installing the Brake Light Switches (coming soon)
 5. Installing lights (coming soon)
