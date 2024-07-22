@@ -20,15 +20,14 @@ flowchart LR
     sw1[Handlebar Switch] -- Yellow --- node1
     sw1 -- White --- node4[4 - Pos. Block]
     sw1 -- Green --- node3
- 
-    sw1 -- Black --- node2    
-    sw1 -- Red --- fr[Flasher Relay]    
-    fr -- Blue --- node4    
+    sw1 -- Black --- node2
+    sw1 -- Red --- fr[Flasher Relay]
+    fr -- Blue --- node4
     sw1 -- Brown --- node_horn[horn]    
-    sw1 -- Orange --- node_horn    
+    sw1 -- Orange --- node_horn
     node1 -- Red --- node10[10 - Front DRL Pos Block]    
     node2 -- Black --- node9[9 - Front Lights Neg. Block]    
-    node4 -- Red --- node13[13 - Reed Switch Block]  
+    node4 -- Red --- node13[13 - Reed Switch Block]
     node8 -- Yellow --- rts[Right Turn Signal/DRL]  
     node12 -- ReedSwitch --- node13  
   
@@ -36,6 +35,11 @@ flowchart LR
 %% Black - 333333
 %% White - DDDDDD
 %% Green - 4CAF50
+%% Blue  - 2196F3
+%% Brown  - 795548
+%% Orange - FF9800
+%% Yellow - FFEB3B
+%% Red - D50000
 linkStyle 0 stroke:#D50000,stroke-width:2px 
 linkStyle 1 stroke:#333333,stroke-width:2px
 linkStyle 2 stroke:#333333,stroke-width:2px
@@ -54,32 +58,13 @@ linkStyle 14 stroke:#D50000,stroke-width:2px
 linkStyle 15 stroke:#FFEB3B,stroke-width:2px
 linkStyle 16 stroke:#DDDDDD,stroke-width:2px  
 linkStyle 17 stroke:#4CAF50,stroke-width:2px  
-
-%% Red
-linkStyle 20 stroke:#D50000,stroke-width:2px  
-linkStyle 22 stroke:#D50000,stroke-width:2px  
-linkStyle 24 stroke:#D50000,stroke-width:2px  
-  
-%% Yellow
-
-
-
-linkStyle 19 stroke:#FFEB3B,stroke-width:2px  
-linkStyle 23 stroke:#FFEB3B,stroke-width:2px  
-  
-%% Orange  
-  
-linkStyle 17 stroke:#FF9800,stroke-width:2px  
-  
-%% Blue  
- 
- 
-linkStyle 14 stroke:#2196F3,stroke-width:2px  
-  
-
-  
-%% Brown  
-linkStyle 18 stroke:#795548,stroke-width:2px  
-  
-
+linkStyle 18 stroke:#333333,stroke-width:2px
+linkStyle 19 stroke:#D50000,stroke-width:2px
+linkStyle 20 stroke:#2196F3,stroke-width:2px
+linkStyle 21 stroke:#795548,stroke-width:2px
+linkStyle 22 stroke:#FF9800,stroke-width:2px
+linkStyle 23 stroke:#D50000,stroke-width:2px
+linkStyle 24 stroke:#333333,stroke-width:2px
+linkStyle 25 stroke:#D50000,stroke-width:2px
+linkStyle 26 stroke:#FFEB3B,stroke-width:2px
 ```  
